@@ -1,0 +1,15 @@
+# Ignorar archivos Jupyter Notebook
+*.ipynb
+
+# Ignorar archivos de configuración de entorno virtual
+venv/
+.env
+
+# Ignorar archivos de compilación
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
